@@ -1,0 +1,18 @@
+.btn{
+  background-color: blue;
+  border-color: black;
+  color: white;
+  text-decoration: none;
+  padding: .75em 1.5em;
+  border-radius: 5px;
+ 
+}
+
+.btn:hover{
+  
+  box-shadow: 5px 5px blue;
+  transition-duration: 1s;
+}
+.button{
+	margin-top: 25px;
+}

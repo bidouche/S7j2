@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+nav {
+  height: 70px;
+  background-color: grey;
+  color: white;
+  display: flex;
+  position: relative;
+  
+}
+nav a{
+	margin-left: 10px;
+}
+body {
+  margin:0;
+  font-family: 'Open Sans', sans-serif;
+}

@@ -1,0 +1,25 @@
+.center{
+	width: 150px;
+	height: 150px;
+	position: relative;
+	background: linear-gradient(#e66465, #9198e5);
+}
+.image-card{
+	border-radius: 50px;
+    background-color: green;
+    position: absolute;
+    top: 10px;
+    right: 10px
+}
+.card-name{
+	color: white;
+	position: absolute;
+	bottom: 10px;
+	left: 2px
+}
+.card-twitter{
+	position: absolute;
+	bottom: 10px;
+	position: absolute;
+	right: 10px
+}
